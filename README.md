@@ -1,6 +1,6 @@
 # # Parallel File Storage System
 
-A robust project implementing a parallel file storage system that splits, compresses, and stores file parts. The system supports commands for adding, retrieving, deleting files, and listing stored files.
+Implementing a parallel file storage system that splits, compresses, and stores file parts. The system supports commands for adding, retrieving, deleting files, and listing stored files.
 
 ## Problem Descriptions
 
