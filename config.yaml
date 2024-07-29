@@ -1,0 +1,12 @@
+storage:
+  directory: .\storage
+  chunk_size: 10 # in Bytes
+
+process_pool:
+  number_of_io_processes: 10
+
+thread_pool:
+  number_of_command_threads: 10
+
+memory:
+  max_usage: 100 # in Bytes (must be >= number_of_io_processes * chunk_size)
